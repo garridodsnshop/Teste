@@ -1,22 +1,22 @@
 {
-	"name": "testeopen",
-	"version": "1.0.0",
-	"description": "",
-	"main": "app.js",
-	"scripts": {
-		"start": "node app.js",
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/garridodsnshop/Teste.git"
-	},
-	"author": "garrido",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/garridodsnshop/Teste/issues"
-	},
-	"homepage": "https://github.com/garridodsnshop/Teste#readme",
-	"dependencies": {
-		"express": "^4.16.4"
-	}
+  "name": "testeopen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garridodsnshop/Teste.git"
+  },
+  "author": "garrido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garridodsnshop/Teste/issues"
+  },
+  "homepage": "https://github.com/garridodsnshop/Teste#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
+
